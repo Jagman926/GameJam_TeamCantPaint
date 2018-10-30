@@ -5,18 +5,26 @@
 ## Team Can't Sleep
 
 > Austin Roorda
+
+
 	* Producer
     	* Background Artist
 
 > Karl Lewis
+
+
 	* Systems Design
 	* AI Programming
 
 > Emmett Friedrichs
+
+
 	* Gameplay Design
 	* Background Artist
 
 > Josh Grazda
+
+
 	* Gameplay Programming
 	* Systems Programming
 ---
