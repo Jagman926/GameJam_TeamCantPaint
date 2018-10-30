@@ -1,0 +1,3 @@
+{409c08ef-62da-4c0e-a0c5-3835f852daa6} bus:/
+{95d044da-e733-4838-9ce0-3873ed47d860} bus:/Reverb
+{cac36d76-982a-4dfe-b3ce-6480c9f0440c} bank:/Master Bank

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{0ad2b9ef-22a0-41e9-8ae0-347039c35e39}">
+        <property name="assetPath">
+            <value>Mimic Leave.mp3</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.2653061224489797</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{11cffe9a-6b4a-4d72-a9dc-1eb54fced0d9}</destination>
+        </relationship>
+    </object>
+</objects>

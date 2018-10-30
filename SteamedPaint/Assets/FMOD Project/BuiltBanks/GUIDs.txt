@@ -1,0 +1,15 @@
+{55d6365e-f940-4b33-b450-d86e4c00c020} event:/PlayerEvents/Footsteps Event
+{b0ba20e6-0406-4196-8805-1ef22dd7a6b1} event:/PlayerEvents/Jump Event
+{2ccfd527-beea-4f13-a037-06eb28fced60} event:/PlayerEvents/Landing Event
+{7a897813-eefa-4495-9d65-792de9daa851} event:/PlayerEvents/Hide Event
+{72ca31ff-cb7c-441c-9259-65fdb58a3193} event:/PlayerEvents/Unhide Event
+{64cc0b2f-31d5-46f6-b129-a3bac5d5e484} event:/PlayerEvents/Ladder Event
+{435c5f01-ea63-4908-a268-7faa90414872} event:/PlayerEvents/Summon Mimic
+{1b33db62-241e-497c-887a-a4f411056c3c} event:/PlayerEvents/Mimic Leave
+{bdaef608-30a7-46b3-b673-0fdae8bf730b} event:/PlayerEvents/Push Object
+{2d25d92a-8255-4f79-95b3-1f01e45bfd28} event:/Car Whoosh
+{46ba29b7-aa23-4c58-a8fb-63dea6430a86} event:/Ambience
+{409c08ef-62da-4c0e-a0c5-3835f852daa6} bus:/
+{7be9448e-3343-4656-94df-25292bd0a3cd} bus:/PlayerSounds
+{95d044da-e733-4838-9ce0-3873ed47d860} bus:/Reverb
+{cac36d76-982a-4dfe-b3ce-6480c9f0440c} bank:/Master Bank

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{24ddc2c7-816c-4cf3-8536-bcbd0086bf87}">
+        <property name="assetPath">
+            <value>Hide.mp3</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.4481632653061225</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{11cffe9a-6b4a-4d72-a9dc-1eb54fced0d9}</destination>
+        </relationship>
+    </object>
+</objects>
