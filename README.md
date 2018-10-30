@@ -1,13 +1,31 @@
 # Montreal Game Jam
+> Neon Get Up
 
+---
 ## Team Can't Sleep
 
 > Austin Roorda
+	* Producer
+    	* Background Artist
 
 > Karl Lewis
+	* Systems Design
+	* AI Programming
 
 > Emmett Friedrichs
+	* Gameplay Design
+	* Background Artist
 
 > Josh Grazda
+	* Gameplay Programming
+	* Systems Programming
+---
 
-Completed during 3 Day Game Jam
+## Game Jam:
+	* 3 Days to complete game
+	* Theme was based on going out into the city of Montreal and finding a piece of street art to base your game off of
+
+---
+
+# Neon Get Up
+
