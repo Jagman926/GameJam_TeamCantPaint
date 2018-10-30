@@ -4,34 +4,27 @@
 ---
 ## Team Can't Sleep
 
-> Austin Roorda
+#### Austin Roorda
+>Producer
+>Background Artist
 
+#### Karl Lewis
+>Systems Design
+>AI Programming
 
-	* Producer
-    	* Background Artist
+#### Emmett Friedrichs
+>Gameplay Design
+>Background Artist
 
-> Karl Lewis
+#### Josh Grazda
+>Gameplay Programming
+>Systems Programming
 
-
-	* Systems Design
-	* AI Programming
-
-> Emmett Friedrichs
-
-
-	* Gameplay Design
-	* Background Artist
-
-> Josh Grazda
-
-
-	* Gameplay Programming
-	* Systems Programming
 ---
 
 ## Game Jam:
-	* 3 Days to complete game
-	* Theme was based on going out into the city of Montreal and finding a piece of street art to base your game off of
+>3 Days to complete game
+>Theme was based on going out into the city of Montreal and finding a piece of street art to base your game off of
 
 ---
 
